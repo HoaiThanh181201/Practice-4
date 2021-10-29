@@ -1,0 +1,802 @@
+[
+  {
+    "NovelId": 1,
+    "Name": "fire flower",
+    "Author": "KUSANAGI Mizuho",
+    "Genre": "Action",
+    "Price": 10000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 2,
+    "Name": "fire flower",
+    "Author": "KUSANAGI Mizuho",
+    "Genre": "Action",
+    "Price": 12000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 3,
+    "Name": "fire flower",
+    "Author": "Fuse",
+    "Genre": "Action",
+    "Price": 17500,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 4,
+    "Name": "Hive",
+    "Author": "Kim Gyu Sam",
+    "Genre": "Adventure",
+    "Price": 11000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 5,
+    "Name": "Hive",
+    "Author": "Kim Gyu Sam",
+    "Genre": "Adventure",
+    "Price": 10000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 6,
+    "Name": "Hive",
+    "Author": "Kim Gyu Sam",
+    "Genre": "Adventure",
+    "Price": 12000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 7,
+    "Name": "I lever up alone 2",
+    "Author": "Jang Sung Lak",
+    "Genre": "Adventure",
+    "Price": 140000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 8,
+    "Name": "I lever up alone 2",
+    "Author": "Jang Sung Lak",
+    "Genre": "Adventure",
+    "Price": 130000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 9,
+    "Name": "I lever up alone 2",
+    "Author": "Jang Sung Lak",
+    "Genre": "Adventure",
+    "Price": 135000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 10,
+    "Name": "super supporting character",
+    "Author": " Maruyama Kugane",
+    "Genre": "Simeoli",
+    "Price": 95000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 11,
+    "Name": "super supporting character",
+    "Author": " Ultra Alter",
+    "Genre": "Action ",
+    "Price": 10500,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 12,
+    "Name": "super supporting character",
+    "Author": " Ultra Alter",
+    "Genre": "Action ",
+    "Price": 12000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 13,
+    "Name": "The New Gate",
+    "Author": " Kazanami Shinogi",
+    "Genre": " Fantasy",
+    "Price": 150000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 14,
+    "Name": "The New Gate",
+    "Author": " Kazanami Shinogi",
+    "Genre": " Fantasy",
+    "Price": 144000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 15,
+    "Name": "The New Gate",
+    "Author": " Kazanami Shinogi",
+    "Genre": " Fantasy",
+    "Price": 103000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 16,
+    "Name": "THE MEMORY OF WIND: ANZ",
+    "Author": "Charcoal",
+    "Genre": " Drama ",
+    "Price": 100000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 17,
+    "Name": "THE MEMORY OF WIND: ANZ",
+    "Author": "Charcoal",
+    "Genre": " Drama ",
+    "Price": 150000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 18,
+    "Name": "THE MEMORY OF WIND: ANZ",
+    "Author": "Charcoal",
+    "Genre": " Drama ",
+    "Price": 160000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 19,
+    "Name": "SHAMAN",
+    "Author": "Dam Poong",
+    "Genre": "Fantasy",
+    "Price": 160000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 20,
+    "Name": "SHAMAN",
+    "Author": "Dam Poong",
+    "Genre": "Fantasy",
+    "Price": 11000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 21,
+    "Name": "SHAMAN",
+    "Author": "Dam Poong",
+    "Genre": "Fantasy",
+    "Price": 100000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 22,
+    "Name": "Conan",
+    "Author": "Gosho Aoyama",
+    "Genre": "detective",
+    "Price": 50000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 23,
+    "Name": "Conan",
+    "Author": "Gosho Aoyama",
+    "Genre": "detective",
+    "Price": 65000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 24,
+    "Name": "Conan",
+    "Author": "Gosho Aoyama",
+    "Genre": "detective",
+    "Price": 54000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 25,
+    "Name": "HORIMIYA",
+    "Author": "Hagiwara Daisuke",
+    "Genre": " Romance",
+    "Price": 109000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 26,
+    "Name": "HORIMIYA",
+    "Author": "Hagiwara Daisuke",
+    "Genre": " Romance",
+    "Price": 155000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 27,
+    "Name": "HORIMIYA",
+    "Author": "Hagiwara Daisuke",
+    "Genre": " Romance",
+    "Price": 134000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 28,
+    "Name": "KOU 2 NI TIME LEAPED SHITA ORE GA",
+    "Author": "Kennoji",
+    "Genre": "Comedy ",
+    "Price": 10500,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 29,
+    "Name": "KOU 2 NI TIME LEAPED SHITA ORE GA",
+    "Author": "Kennoji",
+    "Genre": "Comedy ",
+    "Price": 15000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 30,
+    "Name": "KOU 2 NI TIME LEAPED SHITA ORE GA",
+    "Author": "Kennoji",
+    "Genre": "Comedy ",
+    "Price": 122000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 31,
+    "Name": "One Piece 2",
+    "Author": "Oda Eiichiro",
+    "Genre": "Fantasy",
+    "Price": 100000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 32,
+    "Name": "One Piece 2",
+    "Author": "Oda Eiichiro",
+    "Genre": "Fantasy",
+    "Price": 15000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 33,
+    "Name": "One Piece 2",
+    "Author": "Oda Eiichiro",
+    "Genre": "Mussard",
+    "Price": 12000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 34,
+    "Name": "ISEKAI DESU GA MAMONO SAIBAI SHITEIMASU",
+    "Author": "shri",
+    "Genre": "Reincarnation",
+    "Price": 200000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 35,
+    "Name": "ISEKAI DESU GA MAMONO SAIBAI SHITEIMASU",
+    "Author": "shri",
+    "Genre": "Reincarnation",
+    "Price": 158000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 36,
+    "Name": "ISEKAI DESU GA MAMONO SAIBAI SHITEIMASU",
+    "Author": "shri",
+    "Genre": "Reincarnation",
+    "Price": 175000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 37,
+    "Name": "OKUSAN",
+    "Author": "Ooi Masakazu",
+    "Genre": " Slice of Life",
+    "Price": 144000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 38,
+    "Name": "OKUSAN",
+    "Author": "Ooi Masakazu",
+    "Genre": " Slice of Life",
+    "Price": 138000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 39,
+    "Name": "OKUSAN",
+    "Author": "Ooi Masakazu",
+    "Genre": " Slice of Life",
+    "Price": 127000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 40,
+    "Name": "FREAK ISLAND",
+    "Author": "Hokazono Masaya",
+    "Genre": " Horror ",
+    "Price": 142000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 41,
+    "Name": "FREAK ISLAND",
+    "Author": "Hokazono Masaya",
+    "Genre": " Horror ",
+    "Price": 120000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 42,
+    "Name": "FREAK ISLAND",
+    "Author": "Hokazono Masaya",
+    "Genre": " Horror ",
+    "Price": 182000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 43,
+    "Name": "island of death ",
+    "Author": "Konogi Yoshiru",
+    "Genre": "Seinen",
+    "Price": 160000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 44,
+    "Name": "island of death",
+    "Author": "Konogi Yoshiru",
+    "Genre": "Seinen",
+    "Price": 104000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 45,
+    "Name": "island of death",
+    "Author": "Konogi Yoshiru",
+    "Genre": "Seinen",
+    "Price": 120000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 46,
+    "Name": "KONDO WA ZETTAI JAMA SHIMASEN",
+    "Author": "Harukawa Haru",
+    "Genre": " Romance",
+    "Price": 110000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 47,
+    "Name": "KONDO WA ZETTAI JAMA SHIMASEN",
+    "Author": "Harukawa Haru",
+    "Genre": " Romance",
+    "Price": 173000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 48,
+    "Name": "KONDO WA ZETTAI JAMA SHIMASEN",
+    "Author": "Harukawa Haru",
+    "Genre": " Romance",
+    "Price": 192000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 49,
+    "Name": "Killer Shark In Another World",
+    "Author": "Kuboken ",
+    "Genre": " Horror",
+    "Price": 13900,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 50,
+    "Name": "Killer Shark In Another World",
+    "Author": "Kuboken ",
+    "Genre": " Horror",
+    "Price": 14000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 51,
+    "Name": "Killer Shark In Another World",
+    "Author": "Kuboken ",
+    "Genre": " Horror",
+    "Price": 111000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 52,
+    "Name": "I Became A World Full Of Monsters So I Would Like To Live Like You",
+    "Author": "Yossha",
+    "Genre": "Action",
+    "Price": 103000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 53,
+    "Name": "I Became A World Full Of Monsters So I Would Like To Live Like You",
+    "Author": "Yossha",
+    "Genre": "Action",
+    "Price": 193000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 54,
+    "Name": "I Became A World Full Of Monsters So I Would Like To Live Like You",
+    "Author": "Yossha",
+    "Genre": "Action",
+    "Price": 160000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 55,
+    "Name": "shinobi meets the devil",
+    "Author": "Yabuki Kentaro",
+    "Genre": "Action",
+    "Price": 173000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 56,
+    "Name": "shinobi meets the devil",
+    "Author": "Yabuki Kentaro",
+    "Genre": "Action",
+    "Price": 154000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 57,
+    "Name": "shinobi meets the devil",
+    "Author": "Yabuki Kentaro",
+    "Genre": "Action",
+    "Price": 196000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 58,
+    "Name": "Mahou Shoujo Site",
+    "Author": "Satou Kentarou",
+    "Genre": "Horror",
+    "Price": 126000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 59,
+    "Name": "Mahou Shoujo Site",
+    "Author": "Satou Kentarou",
+    "Genre": "Horror",
+    "Price": 19400,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 60,
+    "Name": "Mahou Shoujo Site",
+    "Author": "Satou Kentarou",
+    "Genre": "Horror",
+    "Price": 61000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 61,
+    "Name": "KOWLOON GENERIC ROMANCE",
+    "Author": "MAYUZUKI Jun",
+    "Genre": "Comedy",
+    "Price": 58000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 62,
+    "Name": "KOWLOON GENERIC ROMANCE",
+    "Author": "MAYUZUKI Jun",
+    "Genre": "Comedy",
+    "Price": 100000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 63,
+    "Name": "KOWLOON GENERIC ROMANCE",
+    "Author": "MAYUZUKI Jun",
+    "Genre": "Comedy",
+    "Price": 90000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 64,
+    "Name": "TOUGEN ANKI",
+    "Author": "Urushibara Yura",
+    "Genre": "Horror ",
+    "Price": 16300,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 65,
+    "Name": "TOUGEN ANKI",
+    "Author": "Urushibara Yura",
+    "Genre": "Horror ",
+    "Price": 10700,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 66,
+    "Name": "TOUGEN ANKI",
+    "Author": "Urushibara Yura",
+    "Genre": "Horror ",
+    "Price": 12000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 67,
+    "Name": "MNovelIdARANA KAKYOU NI SU KUU MONO",
+    "Author": "Hara Tsumoi",
+    "Genre": " Mystery",
+    "Price": 114000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 68,
+    "Name": "MNovelIdARANA KAKYOU NI SU KUU MONO",
+    "Author": "Hara Tsumoi",
+    "Genre": " Mystery",
+    "Price": 180000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 69,
+    "Name": "MNovelIdARANA KAKYOU NI SU KUU MONO",
+    "Author": "Hara Tsumoi",
+    "Genre": "Mystery",
+    "Price": 118000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 70,
+    "Name": "WORLDWNovelIdE STORY",
+    "Author": "Kenichi Sakemi",
+    "Genre": " Horror",
+    "Price": 116000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 71,
+    "Name": "WORLDWNovelIdE STORY",
+    "Author": "Kenichi Sakemi",
+    "Genre": " Horror",
+    "Price": 180000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 72,
+    "Name": "WORLDWNovelIdE STORY",
+    "Author": "Kenichi Sakemi",
+    "Genre": "Horror",
+    "Price": 127000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 73,
+    "Name": "JOSHI KAUSEI",
+    "Author": "Wakai Ken",
+    "Genre": "Comedy",
+    "Price": 105000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 74,
+    "Name": "JOSHI KAUSEI",
+    "Author": "Wakai Ken",
+    "Genre": "Comedy",
+    "Price": 102000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 75,
+    "Name": "JOSHI KAUSEI",
+    "Author": "Wakai Ken",
+    "Genre": "Comedy",
+    "Price": 105000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 76,
+    "Name": "TOKIMEKI NO IKENIE",
+    "Author": "Uguisu",
+    "Genre": "Horror",
+    "Price": 108000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 77,
+    "Name": "TOKIMEKI NO IKENIE",
+    "Author": "Uguisu",
+    "Genre": "Horror",
+    "Price": 182000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 78,
+    "Name": "TOKIMEKI NO IKENIE",
+    "Author": "Uguisu",
+    "Genre": "Horror",
+    "Price": 187000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 79,
+    "Name": "THE VILLER'S END CAN ONLY BE DEAD",
+    "Author": "Gwon GyeoulSuol",
+    "Genre": "Fantasy",
+    "Price": 166000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 80,
+    "Name": "THE VILLER'S END CAN ONLY BE DEAD",
+    "Author": "Gwon GyeoulSuol",
+    "Genre": "Fantasy",
+    "Price": 106000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 81,
+    "Name": "THE VILLER'S END CAN ONLY BE DEAD",
+    "Author": "Gwon GyeoulSuol",
+    "Genre": "Fantasy",
+    "Price": 155000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 82,
+    "Name": "fallen human ",
+    "Author": "NISHNovelIdA Kensuke",
+    "Genre": " Horror ",
+    "Price": 167000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 83,
+    "Name": "fallen human",
+    "Author": "NISHNovelIdA Kensuke",
+    "Genre": " Horror ",
+    "Price": 110000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 84,
+    "Name": "fallen human",
+    "Author": "NISHNovelIdA Kensuke",
+    "Genre": " Horror ",
+    "Price": 103000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 85,
+    "Name": "FANTASY BISHOUJO JUNIKU OJISAN TO",
+    "Author": "Tsurusaki Yuu",
+    "Genre": "Comedy ",
+    "Price": 174000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 86,
+    "Name": "FANTASY BISHOUJO JUNIKU OJISAN TO",
+    "Author": "Tsurusaki Yuu",
+    "Genre": "Comedy ",
+    "Price": 134000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 87,
+    "Name": "FANTASY BISHOUJO JUNIKU OJISAN TO",
+    "Author": "Tsurusaki Yuu",
+    "Genre": "Comedy ",
+    "Price": 150000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 88,
+    "Name": "Ayase If",
+    "Author": "Fushimi Tsukasa",
+    "Genre": "Comedy",
+    "Price": 182000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 89,
+    "Name": "Ayase If",
+    "Author": "Fushimi Tsukasa",
+    "Genre": "Comedy",
+    "Price": 144000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 90,
+    "Name": "Ayase If",
+    "Author": "Fushimi Tsukasa",
+    "Genre": "Comedy",
+    "Price": 189000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 91,
+    "Name": "Infection",
+    "Author": "Oikawa Tooru",
+    "Genre": "Horror",
+    "Price": 18500,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 92,
+    "Name": "Infection",
+    "Author": "Oikawa Tooru",
+    "Genre": "Horror",
+    "Price": 17500,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 93,
+    "Name": "Infection",
+    "Author": "Oikawa Tooru",
+    "Genre": "Horror",
+    "Price": 16000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 94,
+    "Name": "Smile at the Runway",
+    "Author": "Inoya Kotoba",
+    "Genre": "School Life ",
+    "Price": 109000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 95,
+    "Name": "Smile at the Runway",
+    "Author": "Inoya Kotoba",
+    "Genre": "School Life ",
+    "Price": 186000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 96,
+    "Name": "Smile at the Runway",
+    "Author": "Inoya Kotoba",
+    "Genre": "School Life ",
+    "Price": 143000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 97,
+    "Name": "Joou Heika no Isekai Senryaku",
+    "Author": "Warita Koma ",
+    "Genre": " Horror",
+    "Price": 101000,
+    "Volume": "Volume1"
+  },
+  {
+    "NovelId": 98,
+    "Name": "Joou Heika no Isekai Senryaku",
+    "Author": "Warita Koma ",
+    "Genre": " Horror",
+    "Price": 101000,
+    "Volume": "Volume2"
+  },
+  {
+    "NovelId": 99,
+    "Name": "Joou Heika no Isekai Senryaku",
+    "Author": "Warita Koma ",
+    "Genre": " Horror",
+    "Price": 95000,
+    "Volume": "Volume3"
+  },
+  {
+    "NovelId": 100,
+    "Name": "fire flower",
+    "Author": "KUSANAGI Mizuho",
+    "Genre": "Swanbourne",
+    "Price": 167000,
+    "Volume": "Volume2"
+  }
+]
